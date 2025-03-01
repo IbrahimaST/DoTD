@@ -1,8 +1,602 @@
 [
     {
         "id": "01",
-        "text": "Example Dua In Arabic Here",
-        "translation": "This Dua Means X",
-        "context": "Use When Doing X"
+        "text": "اللهم لك صمت وعلى رزقك أفطرت",
+        "translation": "O Allah! I have fasted for You, and I break my fast with Your sustenance.",
+        "context": "Dua for breaking the fast (Iftar)."
+    },
+    {
+        "id": "02",
+        "text": "اللهم إني أسألك علما نافعا ورزقا طيبا وعملا متقبلا",
+        "translation": "O Allah! I ask You for beneficial knowledge, good sustenance, and accepted deeds.",
+        "context": "Dua to recite after Suhoor (pre-dawn meal)."
+    },
+    {
+        "id": "03",
+        "text": "اللهم أعني على ذكرك وشكرك وحسن عبادتك",
+        "translation": "O Allah! Help me to remember You, to be grateful to You, and to worship You in an excellent manner.",
+        "context": "Dua after every Salah (prayer)."
+    },
+    {
+        "id": "04",
+        "text": "اللهم إنك عفو تحب العفو فاعف عني",
+        "translation": "O Allah, You are the Most Forgiving, and You love forgiveness, so forgive me.",
+        "context": "Dua for seeking forgiveness, often recited during the last 10 nights of Ramadan."
+    },
+    {
+        "id": "05",
+        "text": "اللهم اجعلني من التوابين واجعلني من المتطهرين",
+        "translation": "O Allah! Make me among those who repent and those who purify themselves.",
+        "context": "Dua for purification after Wudu (ablution)."
+    },
+    {
+        "id": "06",
+        "text": "اللهم بارك لنا في رجب وشعبان وبلغنا رمضان",
+        "translation": "O Allah! Bless us in Rajab and Sha’ban and allow us to reach Ramadan.",
+        "context": "Dua to be recited before Ramadan starts."
+    },
+    {
+        "id": "07",
+        "text": "اللهم إني أسألك رضاك والجنة وأعوذ بك من سخطك والنار",
+        "translation": "O Allah! I ask You for Your pleasure and Paradise, and I seek refuge from Your anger and Hellfire.",
+        "context": "Dua for seeking Jannah (Paradise)."
+    },
+    {
+        "id": "08",
+        "text": "اللهم إني أعوذ بك من الهم والحزن والعجز والكسل",
+        "translation": "O Allah! I seek refuge in You from anxiety, sorrow, weakness, and laziness.",
+        "context": "Dua for relieving stress and worry."
+    },
+    {
+        "id": "09",
+        "text": "ربنا آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار",
+        "translation": "Our Lord! Grant us good in this world and good in the Hereafter, and save us from the punishment of the Fire.",
+        "context": "Dua frequently recited for overall well-being."
+    },
+    {
+        "id": "10",
+        "text": "اللهم اجعلنا من الذين يستمعون القول فيتبعون أحسنه",
+        "translation": "O Allah! Make us among those who listen to good words and follow them in the best way.",
+        "context": "Dua for guidance and wisdom."
+    },
+    {
+        "id": "11",
+        "text": "اللهم وفقنا لما تحب وترضى",
+        "translation": "O Allah! Guide us to what You love and are pleased with.",
+        "context": "Dua for seeking guidance in life."
+    },
+    {
+        "id": "12",
+        "text": "اللهم اجعلني من الشاكرين",
+        "translation": "O Allah! Make me among the grateful ones.",
+        "context": "Dua for gratitude."
+    },
+    {
+        "id": "13",
+        "text": "اللهم ارزقنا حسن الخاتمة",
+        "translation": "O Allah! Grant us a good ending.",
+        "context": "Dua for a good death and ending."
+    },
+    {
+        "id": "14",
+        "text": "اللهم افتح لنا أبواب رحمتك",
+        "translation": "O Allah! Open for us the doors of Your mercy.",
+        "context": "Dua for seeking mercy."
+    },
+    {
+        "id": "15",
+        "text": "اللهم إني أسألك العفو والعافية",
+        "translation": "O Allah! I ask You for forgiveness and well-being.",
+        "context": "Dua for good health and well-being."
+    },
+    {
+        "id": "16",
+        "text": "اللهم اجعل القرآن العظيم ربيع قلوبنا",
+        "translation": "O Allah! Make the Quran the spring of our hearts.",
+        "context": "Dua for love and understanding of the Quran."
+    },
+    {
+        "id": "17",
+        "text": "اللهم اجعلني من عبادك الصالحين",
+        "translation": "O Allah! Make me among Your righteous servants.",
+        "context": "Dua for righteousness and good character."
+    },
+    {
+        "id": "18",
+        "text": "اللهم ارزقني توبة نصوحا قبل الموت",
+        "translation": "O Allah! Grant me sincere repentance before death.",
+        "context": "Dua for repentance."
+    },
+    {
+        "id": "19",
+        "text": "اللهم لا تجعل الدنيا أكبر همنا ولا مبلغ علمنا",
+        "translation": "O Allah! Do not make this world our greatest concern or the extent of our knowledge.",
+        "context": "Dua to focus on the Hereafter."
+    },
+    {
+        "id": "20",
+        "text": "اللهم اجعلني من المتواضعين",
+        "translation": "O Allah! Make me among the humble.",
+        "context": "Dua for humility."
+    },
+    {
+        "id": "21",
+        "text": "اللهم اجعل لي لسانا ذاكرا وقلبا شاكرا",
+        "translation": "O Allah! Grant me a tongue that remembers You and a heart that is grateful.",
+        "context": "Dua for remembrance and gratitude."
+    },
+    {
+        "id": "22",
+        "text": "اللهم اجعلنا من المقبولين عندك",
+        "translation": "O Allah! Make us among those who are accepted by You.",
+        "context": "Dua for Allah’s acceptance."
+    },
+    {
+        "id": "23",
+        "text": "اللهم ارزقني الصبر والرضا",
+        "translation": "O Allah! Grant me patience and contentment.",
+        "context": "Dua for patience."
+    },
+    {
+        "id": "24",
+        "text": "اللهم اجعل لي نورا في قلبي",
+        "translation": "O Allah! Place light in my heart.",
+        "context": "Dua for guidance and enlightenment."
+    },
+    {
+        "id": "25",
+        "text": "اللهم إني أعوذ بك من شر ما خلقت",
+        "translation": "O Allah! I seek refuge in You from the evil of what You have created.",
+        "context": "Dua for protection from harm."
+    },
+    {
+        "id": "26",
+        "text": "اللهم اجعل عملي خالصا لوجهك الكريم",
+        "translation": "O Allah! Make my deeds sincere for Your noble countenance.",
+        "context": "Dua for sincerity in worship."
+    },
+    {
+        "id": "27",
+        "text": "اللهم تقبل منا إنك أنت السميع العليم",
+        "translation": "O Allah! Accept from us, indeed You are the All-Hearing, the All-Knowing.",
+        "context": "Dua for acceptance of deeds."
+    },
+    {
+        "id": "28",
+        "text": "اللهم اجعلنا من الذين يفوزون بجنات النعيم",
+        "translation": "O Allah! Make us among those who attain the Gardens of Bliss.",
+        "context": "Dua for entering Jannah."
+    },
+    {
+        "id": "29",
+        "text": "اللهم اجعلنا من عبادك المتقين",
+        "translation": "O Allah! Make us among Your pious servants.",
+        "context": "Dua for piety."
+    },
+    {
+        "id": "30",
+        "text": "اللهم إني أسألك حسن الختام",
+        "translation": "O Allah! I ask You for a good ending.",
+        "context": "Dua for a righteous death."
+    },
+    {
+        "id": "31",
+        "text": "اللهم ارزقنا القناعة بما أعطيتنا",
+        "translation": "O Allah! Grant us contentment with what You have given us.",
+        "context": "Dua for contentment and satisfaction."
+    },
+    {
+        "id": "32",
+        "text": "اللهم احفظنا من بين أيدينا ومن خلفنا وعن أيماننا وعن شمائلنا ومن فوقنا ونعوذ بك أن نغتال من تحتنا",
+        "translation": "O Allah! Protect us from what is in front of us, behind us, to our right, to our left, and above us, and we seek refuge in You from being taken from beneath us.",
+        "context": "Comprehensive dua for protection."
+    },
+    {
+        "id": "33",
+        "text": "اللهم ألف بين قلوبنا",
+        "translation": "O Allah! Unite our hearts.",
+        "context": "Dua for unity and harmony among people."
+    },
+    {
+        "id": "34",
+        "text": "اللهم إني أسألك من خير ما سألك منه نبيك محمد صلى الله عليه وسلم",
+        "translation": "O Allah! I ask You for the good things that Your Prophet Muhammad (peace be upon him) asked of You.",
+        "context": "Dua to request the blessings sought by the Prophet."
+    },
+    {
+        "id": "35",
+        "text": "اللهم اجعلنا ممن يستمعون القرآن فيعملون به",
+        "translation": "O Allah! Make us among those who listen to the Quran and act upon it.",
+        "context": "Dua for following Quranic guidance."
+    },
+    {
+        "id": "36",
+        "text": "اللهم ارفع الوباء عنا وعن المسلمين",
+        "translation": "O Allah! Lift the epidemic from us and from all Muslims.",
+        "context": "Dua during times of disease and hardship."
+    },
+    {
+        "id": "37",
+        "text": "اللهم انصر إخواننا المستضعفين في كل مكان",
+        "translation": "O Allah! Grant victory to our oppressed brothers and sisters everywhere.",
+        "context": "Dua for the oppressed."
+    },
+    {
+        "id": "38",
+        "text": "اللهم اشرح صدري ويسر لي أمري",
+        "translation": "O Allah! Expand my chest and ease my task for me.",
+        "context": "Dua for ease in difficult tasks, spoken by Prophet Musa."
+    },
+    {
+        "id": "39",
+        "text": "اللهم أنت ربي لا إله إلا أنت عليك توكلت وإليك أنيب",
+        "translation": "O Allah! You are my Lord, there is no deity except You, upon You I rely, and to You I turn in repentance.",
+        "context": "Dua for reliance on Allah (Tawakkul)."
+    },
+    {
+        "id": "40",
+        "text": "اللهم اجعلنا من عبادك الذين لا خوف عليهم ولا هم يحزنون",
+        "translation": "O Allah! Make us among Your servants who shall have no fear upon them nor shall they grieve.",
+        "context": "Dua for peace of mind and heart."
+    },
+    {
+        "id": "41",
+        "text": "اللهم لا تدع لنا ذنبا إلا غفرته ولا هما إلا فرجته ولا دينا إلا قضيته",
+        "translation": "O Allah! Leave not any sin of ours unforgiven, nor any worry unrelieved, nor any debt unpaid.",
+        "context": "Comprehensive dua for forgiveness and relief."
+    },
+    {
+        "id": "42",
+        "text": "اللهم إني أسألك الثبات في الأمر والعزيمة على الرشد",
+        "translation": "O Allah! I ask You for steadfastness in my affairs and firm determination on the path of guidance.",
+        "context": "Dua for steadfastness in faith."
+    },
+    {
+        "id": "43",
+        "text": "اللهم لا تجعل مصيبتنا في ديننا",
+        "translation": "O Allah! Let not our tribulation be in our faith.",
+        "context": "Dua for preservation of faith during hardship."
+    },
+    {
+        "id": "44",
+        "text": "اللهم اغفر لوالدي وارحمهما كما ربياني صغيرا",
+        "translation": "O Allah! Forgive my parents and have mercy on them as they raised me when I was small.",
+        "context": "Dua for parents."
+    },
+    {
+        "id": "45",
+        "text": "اللهم اشغلنا بذكرك عن ذكر غيرك",
+        "translation": "O Allah! Keep us engaged in Your remembrance rather than the remembrance of others.",
+        "context": "Dua for focus in worship."
+    },
+    {
+        "id": "46",
+        "text": "اللهم اجعل يومنا خيرا من أمسنا واجعل غدنا خيرا من يومنا",
+        "translation": "O Allah! Make our today better than our yesterday, and make our tomorrow better than our today.",
+        "context": "Dua for continuous improvement."
+    },
+    {
+        "id": "47",
+        "text": "اللهم أصلح لي شأني كله ولا تكلني إلى نفسي طرفة عين",
+        "translation": "O Allah! Rectify all my affairs and do not leave me to myself even for the blink of an eye.",
+        "context": "Dua for divine assistance."
+    },
+    {
+        "id": "48",
+        "text": "اللهم اجعلنا من الذين إذا أحسنوا استبشروا وإذا أساؤوا استغفروا",
+        "translation": "O Allah! Make us among those who rejoice when they do good and seek forgiveness when they do wrong.",
+        "context": "Dua for self-awareness and accountability."
+    },
+    {
+        "id": "49",
+        "text": "اللهم إني أعوذ بك من يوم السوء ومن ليلة السوء ومن ساعة السوء",
+        "translation": "O Allah! I seek refuge in You from an evil day, an evil night, and an evil hour.",
+        "context": "Dua for protection from difficult times."
+    },
+    {
+        "id": "50",
+        "text": "اللهم ثبتنا على طريق الاستقامة",
+        "translation": "O Allah! Keep us steadfast on the straight path.",
+        "context": "Dua for consistency in righteousness."
+    },
+    {
+        "id": "51",
+        "text": "اللهم اجعلني خيرا مما يظنون ولا تؤاخذني بما يقولون واغفر لي ما لا يعلمون",
+        "translation": "O Allah! Make me better than what they think of me, do not hold me accountable for what they say, and forgive me for what they do not know.",
+        "context": "Dua when being criticized or praised."
+    },
+    {
+        "id": "52",
+        "text": "اللهم ارزقنا لذة النظر إلى وجهك الكريم",
+        "translation": "O Allah! Grant us the pleasure of gazing upon Your noble face.",
+        "context": "Dua for the ultimate reward in Jannah."
+    },
+    {
+        "id": "53",
+        "text": "اللهم اجعل خير أعمارنا أواخرها وخير أعمالنا خواتيمها",
+        "translation": "O Allah! Make the best of our lives the end of them, and the best of our deeds their conclusions.",
+        "context": "Dua for an excellent ending to life and deeds."
+    },
+    {
+        "id": "54",
+        "text": "اللهم إني أسألك خير المسألة وخير الدعاء وخير النجاح وخير العمل وخير الثواب",
+        "translation": "O Allah! I ask You for the best way of asking, the best supplication, the best success, the best deed, and the best reward.",
+        "context": "Comprehensive dua for excellence."
+    },
+    {
+        "id": "55",
+        "text": "اللهم باعد بيني وبين خطاياي كما باعدت بين المشرق والمغرب",
+        "translation": "O Allah! Distance me from my sins as You have distanced the east from the west.",
+        "context": "Dua for complete separation from sins."
+    },
+    {
+        "id": "56",
+        "text": "اللهم كما أحسنت خلقي فأحسن خلقي",
+        "translation": "O Allah! As You have made my physical form beautiful, make my character beautiful as well.",
+        "context": "Dua for good character."
+    },
+    {
+        "id": "57",
+        "text": "اللهم ارزقنا شهادة في سبيلك",
+        "translation": "O Allah! Grant us martyrdom in Your path.",
+        "context": "Dua for highest rank in the Hereafter."
+    },
+    {
+        "id": "58",
+        "text": "اللهم إني أعوذ بك من قلب لا يخشع ودعاء لا يسمع وعلم لا ينفع ونفس لا تشبع",
+        "translation": "O Allah! I seek refuge in You from a heart that does not feel humble, a supplication that is not heard, knowledge that does not benefit, and a soul that is never satisfied.",
+        "context": "Dua for protection from spiritual afflictions."
+    },
+    {
+        "id": "59",
+        "text": "اللهم اجعلني من الذين إذا أعطوا شكروا وإذا ابتلوا صبروا وإذا ظلموا غفروا",
+        "translation": "O Allah! Make me among those who, when given, are thankful; when tested, are patient; and when wronged, forgive.",
+        "context": "Dua for exemplary character in all situations."
+    },
+    {
+        "id": "60",
+        "text": "اللهم انفعنا بما علمتنا وعلمنا ما ينفعنا وزدنا علما",
+        "translation": "O Allah! Benefit us with what You have taught us, teach us what will benefit us, and increase us in knowledge.",
+        "context": "Dua for beneficial knowledge."
+    },
+    {
+        "id": "61",
+        "text": "اللهم صل وسلم وبارك على نبينا محمد وعلى آله وصحبه أجمعين",
+        "translation": "O Allah! Send Your prayers, peace, and blessings upon our Prophet Muhammad and upon all his family and companions.",
+        "context": "Dua for sending blessings upon the Prophet."
+    },
+    {
+        "id": "62",
+        "text": "اللهم إني أسألك من فضلك ورحمتك فإنه لا يملكها إلا أنت",
+        "translation": "O Allah! I ask You from Your bounty and Your mercy, for none possesses them but You.",
+        "context": "Dua for seeking Allah's bounty."
+    },
+    {
+        "id": "63",
+        "text": "اللهم أعنا على الصيام والقيام وتلاوة القرآن",
+        "translation": "O Allah! Help us with fasting, night prayer, and recitation of the Quran.",
+        "context": "Dua for assistance in acts of worship."
+    },
+    {
+        "id": "64",
+        "text": "اللهم جنبنا الفتن ما ظهر منها وما بطن",
+        "translation": "O Allah! Keep us away from trials, both apparent and hidden.",
+        "context": "Dua for protection from tribulations."
+    },
+    {
+        "id": "65",
+        "text": "اللهم اغفر للمؤمنين والمؤمنات والمسلمين والمسلمات الأحياء منهم والأموات",
+        "translation": "O Allah! Forgive the believing men and women, and the Muslim men and women, both the living and the dead.",
+        "context": "Dua for forgiveness for all Muslims."
+    },
+    {
+        "id": "66",
+        "text": "اللهم إني أسألك حبك وحب من يحبك وحب عمل يقربني إلى حبك",
+        "translation": "O Allah! I ask You for Your love, the love of those who love You, and the love of deeds that bring me closer to Your love.",
+        "context": "Dua for divine love."
+    },
+    {
+        "id": "67",
+        "text": "اللهم اهدنا فيمن هديت وعافنا فيمن عافيت",
+        "translation": "O Allah! Guide us among those whom You have guided, and grant us well-being among those to whom You have granted well-being.",
+        "context": "Dua for guidance and well-being."
+    },
+    {
+        "id": "68",
+        "text": "اللهم أجرنا من النار",
+        "translation": "O Allah! Save us from the Fire.",
+        "context": "Short but comprehensive dua for salvation."
+    },
+    {
+        "id": "69",
+        "text": "اللهم ارزقنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب القبر",
+        "translation": "O Allah! Grant us good in this world and good in the Hereafter, and save us from the punishment of the grave.",
+        "context": "Dua for well-being in both worlds and protection in the grave."
+    },
+    {
+        "id": "70",
+        "text": "اللهم أصلح لنا ديننا الذي هو عصمة أمرنا ودنيانا التي فيها معاشنا وآخرتنا التي إليها معادنا",
+        "translation": "O Allah! Rectify for us our religion, which is the safeguard of our affairs, and rectify for us our worldly life, wherein is our livelihood, and rectify for us our Hereafter, to which is our return.",
+        "context": "Comprehensive dua for faith and life."
+    },
+    {
+        "id": "71",
+        "text": "اللهم من أراد بالإسلام والمسلمين شرا فأشغله بنفسه ورد كيده في نحره",
+        "translation": "O Allah! Whoever intends evil for Islam and Muslims, preoccupy them with themselves and return their plot to their own necks.",
+        "context": "Dua for protection of the Muslim community."
+    },
+    {
+        "id": "72",
+        "text": "اللهم اجبر كسرنا واستر عيوبنا وآمن روعاتنا",
+        "translation": "O Allah! Mend our brokenness, cover our faults, and calm our fears.",
+        "context": "Dua for healing and reassurance."
+    },
+    {
+        "id": "73",
+        "text": "اللهم احفظنا بالإسلام قائمين واحفظنا بالإسلام قاعدين واحفظنا بالإسلام راقدين",
+        "translation": "O Allah! Protect us with Islam while standing, protect us with Islam while sitting, and protect us with Islam while lying down.",
+        "context": "Dua for constant protection through faith."
+    },
+    {
+        "id": "74",
+        "text": "اللهم بك أصبحنا وبك أمسينا وبك نحيا وبك نموت وإليك النشور",
+        "translation": "O Allah! By Your leave we have reached the morning, by Your leave we reach the evening, by Your leave we live, by Your leave we die, and to You is the resurrection.",
+        "context": "Morning dua acknowledging Allah's control."
+    },
+    {
+        "id": "75",
+        "text": "اللهم اجعلنا من الذين يوفون بعهدك ولا ينقضون الميثاق",
+        "translation": "O Allah! Make us among those who fulfill Your covenant and do not break the promise.",
+        "context": "Dua for fulfilling commitments."
+    },
+    {
+        "id": "76",
+        "text": "اللهم أنت عضدي وأنت نصيري بك أجول وبك أصول وبك أقاتل",
+        "translation": "O Allah! You are my support and You are my helper. By You I go forth, by You I attack, and by You I fight.",
+        "context": "Dua for strength in adversity, said by the Prophet before battle."
+    },
+    {
+        "id": "77",
+        "text": "اللهم ارزقنا حبك وخشيتك",
+        "translation": "O Allah! Grant us Your love and fear of You.",
+        "context": "Dua for balanced relationship with Allah."
+    },
+    {
+        "id": "78",
+        "text": "اللهم إني أسألك الإخلاص في القول والعمل",
+        "translation": "O Allah! I ask You for sincerity in speech and deed.",
+        "context": "Dua for sincerity."
+    },
+    {
+        "id": "79",
+        "text": "اللهم حببنا إلى عبادك الصالحين وحببهم إلينا",
+        "translation": "O Allah! Make us beloved to Your righteous servants and make them beloved to us.",
+        "context": "Dua for good companionship."
+    },
+    {
+        "id": "80",
+        "text": "اللهم إني أعوذ بك من زوال نعمتك وتحول عافيتك وفجاءة نقمتك وجميع سخطك",
+        "translation": "O Allah! I seek refuge in You from the cessation of Your blessings, the withdrawal of Your well-being, the suddenness of Your retribution, and all Your displeasure.",
+        "context": "Dua for preservation of blessings."
+    },
+    {
+        "id": "81",
+        "text": "اللهم يا مقلب القلوب ثبت قلبي على دينك",
+        "translation": "O Allah, O Turner of hearts, make my heart firm upon Your religion.",
+        "context": "Dua for steadfastness of the heart."
+    },
+    {
+        "id": "82",
+        "text": "اللهم استر عوراتنا وآمن روعاتنا واحفظنا من بين أيدينا ومن خلفنا",
+        "translation": "O Allah! Cover our private matters, calm our fears, and protect us from what is in front of us and behind us.",
+        "context": "Dua for comprehensive protection."
+    },
+    {
+        "id": "83",
+        "text": "اللهم ارزقنا عيشة هنية وميتة سوية ومردا غير مخز ولا فاضح",
+        "translation": "O Allah! Grant us a pleasant life, a peaceful death, and a return that is neither disgraceful nor scandalous.",
+        "context": "Dua for a good life, death, and resurrection."
+    },
+    {
+        "id": "84",
+        "text": "اللهم من أحييته منا فأحيه على الإيمان ومن توفيته منا فتوفه على الإسلام",
+        "translation": "O Allah! Whoever among us You keep alive, let him live in faith, and whoever among us You cause to die, let him die in Islam.",
+        "context": "Dua for living and dying in faith."
+    },
+    {
+        "id": "85",
+        "text": "اللهم ما رزقتنا مما نحب فاجعله عونا لنا فيما تحب وما زويت عنا مما نحب فاجعله فراغا لنا فيما تحب",
+        "translation": "O Allah! Whatever You have provided us of what we love, make it a support for us in what You love, and whatever You have withheld from us of what we love, make it freedom for us for what You love.",
+        "context": "Dua for proper use of blessings and patience with withholdings."
+    },
+    {
+        "id": "86",
+        "text": "اللهم إني أسألك غنى النفس",
+        "translation": "O Allah! I ask You for richness of the soul.",
+        "context": "Dua for contentment."
+    },
+    {
+        "id": "87",
+        "text": "اللهم حبب إلينا الإيمان وزينه في قلوبنا وكره إلينا الكفر والفسوق والعصيان واجعلنا من الراشدين",
+        "translation": "O Allah! Make faith beloved to us and beautify it in our hearts, and make disbelief, wickedness, and disobedience hateful to us, and make us among the rightly guided.",
+        "context": "Dua for love of faith and hatred of sin."
+    },
+    {
+        "id": "88",
+        "text": "اللهم جملنا بالعافية والسترة",
+        "translation": "O Allah! Adorn us with well-being and concealment of our faults.",
+        "context": "Dua for divine protection and grace."
+    },
+    {
+        "id": "89",
+        "text": "اللهم إني أسألك أن تجعل خير عمري آخره وخير عملي خواتمه وخير أيامي يوم ألقاك فيه",
+        "translation": "O Allah! I ask You to make the best of my life its end, the best of my deeds their final ones, and the best of my days the day I meet You.",
+        "context": "Dua for an excellent ending."
+    },
+    {
+        "id": "90",
+        "text": "اللهم إني أسألك بأني أشهد أنك أنت الله لا إله إلا أنت الأحد الصمد الذي لم يلد ولم يولد ولم يكن له كفوا أحد",
+        "translation": "O Allah! I ask You by my testimony that You are Allah, there is no deity except You, the One, the Self-Sufficient, who does not beget nor was begotten, and to whom no one is equal.",
+        "context": "Powerful dua using Allah's attributes."
+    },
+    {
+        "id": "91",
+        "text": "اللهم أعني على شكرك وذكرك وحسن عبادتك",
+        "translation": "O Allah! Help me in remembering You, in thanking You, and in worshipping You in the best manner.",
+        "context": "Dua for excellence in worship."
+    },
+    {
+        "id": "92",
+        "text": "اللهم إنا نسألك موجبات رحمتك وعزائم مغفرتك والسلامة من كل إثم والغنيمة من كل بر والفوز بالجنة والنجاة من النار",
+        "translation": "O Allah! We ask You for all that brings about Your mercy, and all that brings about Your forgiveness, and safety from every sin, and a share in every good deed, and success with Paradise, and salvation from the Fire.",
+        "context": "Comprehensive dua for salvation."
+    },
+    {
+        "id": "93",
+        "text": "اللهم إني أسألك السلامة في الدين والدنيا والآخرة",
+        "translation": "O Allah! I ask You for well-being in my religion, worldly affairs, and the Hereafter.",
+        "context": "Dua for comprehensive well-being."
+    },
+    {
+        "id": "94",
+        "text": "اللهم احفظني بالإسلام راقدا واحفظني بالإسلام قاعدا واحفظني بالإسلام قائما",
+        "translation": "O Allah! Protect me through Islam when I am lying down, protect me through Islam when I am sitting, and protect me through Islam when I am standing.",
+        "context": "Dua for constant protection through faith."
+    },
+    {
+        "id": "95",
+        "text": "اللهم ارحمنا إذا صرنا إلى ما صاروا إليه تحت الجنادل والتراب",
+        "translation": "O Allah! Have mercy on us when we become like them, under stones and earth.",
+        "context": "Dua when visiting graves."
+    },
+    {
+        "id": "96",
+        "text": "اللهم افتح لنا أبواب فضلك",
+        "translation": "O Allah! Open for us the doors of Your bounty.",
+        "context": "Dua for seeking Allah's generosity."
+    },
+    {
+        "id": "97",
+        "text": "اللهم أحسن عاقبتنا في الأمور كلها، وأجرنا من خزي الدنيا وعذاب الآخرة",
+        "translation": "O Allah! Make good our end in all affairs, and save us from disgrace in this world and punishment in the Hereafter.",
+        "context": "Dua for good outcomes."
+    },
+    {
+        "id": "98",
+        "text": "اللهم ألهمني رشدي وأعذني من شر نفسي",
+        "translation": "O Allah! Inspire me with guidance and protect me from the evil of my soul.",
+        "context": "Dua for divine guidance and self-control."
+    },
+    {
+        "id": "99",
+        "text": "اللهم املأ قلبي حبا لك وخشية منك ومعرفة بك وإيمانا بك وفرقا منك واشتياقا إليك",
+        "translation": "O Allah! Fill my heart with love for You, fear of You, knowledge of You, faith in You, awe of You, and longing for You.",
+        "context": "Dua for a heart filled with love of Allah."
+    },
+    {
+        "id": "100",
+        "text": "اللهم اجعلنا مباركين أينما كنا",
+        "translation": "O Allah! Make us blessed wherever we may be.",
+        "context": "Dua for being a source of goodness."
     }
 ]

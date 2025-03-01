@@ -1,12 +1,14 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import DuaCard from './components/DuaCard';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './App.css';
+import FavoriteColor from './components/favoriteColors';
 
 function App() {
   return (
-    <div></div>
+      <div className="app-container">
+        <DuaCard />
+      </div>
   )
 }
 
-export default App
+export default App;
