@@ -6,7 +6,6 @@ import duas from '../data/duas.json';
 export default function DuaCard() {
     const [dua, setDua] = useState(() => getRandomDua(duas));
     const [key, setKey] = useState(0);
-    const [favorites, setFavorites] = useState()
 
     const handleNewDua = () => {
         setDua(getRandomDua(duas))
