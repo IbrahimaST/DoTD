@@ -6,6 +6,7 @@ A simple React-based web application that displays a random dua (Islamic supplic
 
 - Displays a random dua from a collection of 150+ duas
 - Bootstrap-styled UI for a clean and responsive design
+- Play dua audio with Web Speech API for pronunciation assistance
 
 🛠️ Technologies Used
 
