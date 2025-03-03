@@ -41,7 +41,7 @@ h1 {
 }
 
 .dua-button {
-    background: linear-gradient(135deg, #3b3b3b, #c0bdbc);
+    background: linear-gradient(135deg, #937DC2, #c0bdbc);
     color: white;
     border: none;
     border-radius: 10px;
@@ -53,6 +53,6 @@ h1 {
 }
 
 .dua-button:hover {
-    background: linear-gradient(135deg, #c0bdbc, #3b3b3b);
+    background: linear-gradient(135deg, #c0bdbc, #937DC2);
     transform: scale(1.1);
 }
