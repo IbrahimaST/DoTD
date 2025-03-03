@@ -18,7 +18,7 @@ export default function DuaCard() {
             const text = new SpeechSynthesisUtterance(duaText);
             text.lang = "ar-SA";
             text.rate = 0.95;
-            speechSynthesis.speak(text);
+            window.speechSynthesis.speak(text);
         }
     }
 
