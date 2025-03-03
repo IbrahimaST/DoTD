@@ -2,6 +2,7 @@ import { useState } from "react";
 import { Card, Container, Button } from "react-bootstrap";
 import getRandomDua from "./getRandomDua";
 import duas from '../data/duas.json';
+import { RiSpeakFill } from "react-icons/ri";
 
 export default function DuaCard() {
     const [dua, setDua] = useState(() => getRandomDua(duas));
@@ -12,6 +13,14 @@ export default function DuaCard() {
         setKey(prevKey => prevKey + 1)
     }
 
+    const duaTTS = (duaText) => {
+        if ("speechSynthesis" in window) {
+            const text = new SpeechSynthesisUtterance(duaText);
+            text.lang = "ar-SA";
+            text.rate = 0.95;
+            speechSynthesis.speak(text);
+        }
+    }
 
     return (
         <Container fluid className="position-absolute top-50 start-50 translate-middle text-center">
@@ -24,7 +33,10 @@ export default function DuaCard() {
                     <Card.Body id="cardBody" className="fs-50 fw-bold fst-italic">{dua.translation}</Card.Body>
                     <Card.Footer id="cardFooter" className="fs-50">{dua.context}</Card.Footer>
                 </Card>
-                <Button onClick={handleNewDua} className="dua-button mt-5">Get New Dua</Button>
+                <div>
+                    <Button onClick={() => duaTTS(dua.text)} className="dua-button mt-5"> <RiSpeakFill/> Play Dua </Button>
+                    <Button onClick={handleNewDua} className="dua-button mt-5">Get New Dua</Button>
+                </div>
             </div>
         </Container>
     )
