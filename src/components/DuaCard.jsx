@@ -34,8 +34,8 @@ export default function DuaCard() {
                     <Card.Footer id="cardFooter" className="fs-50">{dua.context}</Card.Footer>
                 </Card>
                 <div>
-                    <Button onClick={() => duaTTS(dua.text)} className="dua-button mt-5"> <RiSpeakFill/> Play Dua </Button>
-                    <Button onClick={handleNewDua} className="dua-button mt-5">Get New Dua</Button>
+                    <Button onClick={() => duaTTS(dua.text)} className="dua-button mt-5 me-3"> <RiSpeakFill/> Play Dua </Button>
+                    <Button onClick={handleNewDua} className="dua-button mt-5">New Dua</Button>
                 </div>
             </div>
         </Container>
