@@ -16,7 +16,7 @@ export default function DuaCard() {
     const duaTTS = (duaText) => {
         if ("speechSynthesis" in window) {
             const text = new SpeechSynthesisUtterance(duaText);
-            text.lang = "ar-SA";
+            text.lang = "ar-EG";
             text.rate = 0.95;
             window.speechSynthesis.speak(text);
         }
