@@ -2,7 +2,7 @@
 
 A simple React-based web application that displays a random dua (Islamic supplications) for users. Built with React and Bootstrap, this app allows users to explore different duas with the click of a button.
 
-<a href="duaoftheday.netlify.app">Project Link</a>
+<a href="duaoftheday.netlify.app" target="_blank">Project Link</a>
 
 ✨ Features
 
